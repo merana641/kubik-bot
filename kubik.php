@@ -14,7 +14,7 @@ $config['deviceCode']          		= '352003020542732';
 $config['tk']                           = 'ACFK73xzUu9GiImWKWKrStDYbQQuR_wlY5txdHRodw';
 $config['token']                        = 'beb5L4Ce5tAvKNg6zGDnODTFr4JRLIf6b7LoruaQ-kMpU87kOmYLliGSt0hlXVhC4eayQpDDfnE7qLA';
 $config['uuid']                         = 'bc8e203812c34a9eaddae5b216273869';
-$config['sign']                         = 'ccc0e4883f81891cfb0649a713dc62f5';
+$config['sign']                         = 'aed5c7d86fd46ca8f12dec34fb71d420';
 $config['android_id']           	= '54271e6f815b6079';
 ##############################################################################################################
 
